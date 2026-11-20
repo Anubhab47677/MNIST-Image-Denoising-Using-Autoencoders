@@ -680,7 +680,10 @@ For substantial changes, describe the experiment, configuration, and evaluation 
 
 **Anubhab Samantaray**
 
-B.Tech — Computer Science and Engineering (AIML)
+- GitHub: [@Anubhab47677](https://github.com/Anubhab47677)
+- LinkedIn: [Anubhab Samantaray](https://www.linkedin.com/in/anubhab-samantaray/)
+
+Computer Science & Engineering — Artificial Intelligence and Machine Learning
 
 ---
 
